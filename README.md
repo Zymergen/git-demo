@@ -6,6 +6,19 @@ Welcome to the git demo repository!
 
 This repo contains a few branches that you can play around with and explore.
 
+Playing along with the slides
+-----------------------------
+
+Many of the slides make reference to the contents of this repository. To follow 
+along, you'll need to clone a copy of this git repository.
+
+Start `git-bash` and then run:
+
+```
+git clone https://github.com/zymergen/git-demo.git
+cd git-demo
+```
+
 Moving around branches
 ----------------------
 
