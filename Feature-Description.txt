@@ -5,3 +5,5 @@ This is a design document for a feature. We want our new feature to:
 * be useful
 * be fun
 * be easy to use.
+
+Let's also make it not too hard to put together in the first place!
