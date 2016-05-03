@@ -33,3 +33,10 @@ To create a new local branch and switch to it:
 
 What branches are there? What are the contents of each one?
 
+
+Adding lines
+------------
+
+In this patch, we add some lines to the end of the README.md file.
+These are the lines we're adding.
+You can see a `+` next to each one in the patch via `git show HEAD`.
