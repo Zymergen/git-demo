@@ -1,0 +1,7 @@
+
+
+This is a design document for a feature. We want our new feature to:
+
+* be useful
+* be fun
+* be easy to use.
