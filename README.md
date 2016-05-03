@@ -6,6 +6,11 @@ Welcome to the git demo repository!
 
 This repo contains a few branches that you can play around with and explore.
 
+This is the other branch
+========================
+
+You're on the other branch now!
+
 Playing along with the slides
 -----------------------------
 
